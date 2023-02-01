@@ -14,4 +14,8 @@
     <li><strong>Remote</strong>- This is the version of a repository or branch that is hosted on a server</li>
     <li><strong>Repository</strong>-A repository contains all of the project files (including documentation), and stores each file's revision history.</li>
   </ul>
+ <h2>References</h2>
+  <ul>
+    <a href="https://docs.github.com/en/get-started/quickstart/github-glossary#repository">Github</a>
+  </ul>
 theme: minima
