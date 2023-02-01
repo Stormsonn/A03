@@ -1,4 +1,11 @@
 # A03
+<h3>Step-by-Step</h3>
+  <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
 <h1>Definitions</h1>
   <ul>
     <li><strong>Branch</strong>- Allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.</li>
